@@ -1,0 +1,19 @@
+.applicationTitle {
+  font-size: 10px;
+  font-weight: bold;
+  color: #999;
+  margin-right: 15px;
+  margin-bottom: 15px;
+  background-color: #333;
+  padding: 10px;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.applicationWrapper{
+    margin:2rem 0 0 5.9rem;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    flex-wrap: wrap;
+}
